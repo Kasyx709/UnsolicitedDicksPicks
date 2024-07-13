@@ -1,13 +1,13 @@
 # Wildcard Blocklist for Pi-Hole, also blocks all domains ending in .ru	adsco.re
 0.0.0.0	atdmt.com
 0.0.0.0	blockadsnot.com
-0.0.0.0	buzz
+0.0.0.0	*.buzz
 0.0.0.0	capndr.com
 0.0.0.0	cloudflareinsights.com
 0.0.0.0	doubleclick.com
 0.0.0.0	doubleclick.net
 0.0.0.0	googlesyndication.com
-0.0.0.0	icu
+0.0.0.0	*.icu
 0.0.0.0	ingest.sentry.io
 0.0.0.0	iqm.com
 0.0.0.0	irbzdrvsasg.com
