@@ -1,3 +1,4 @@
+# Wildcard Blocklist for Pi-Hole, also blocks all domains ending in .ru	adsco.re
 0.0.0.0	*.ru
 0.0.0.0	207.net
 0.0.0.0	247realmedia.com
@@ -18,7 +19,6 @@
 0.0.0.0	admeld.com
 0.0.0.0	admob.com
 0.0.0.0	ads.com
-# Wildcard Blocklist for Pi-Hole, also blocks all domains ending in .ru	adsco.re
 0.0.0.0	adsense.com
 0.0.0.0	adservice.google.com
 0.0.0.0	adsonar.com
@@ -27,6 +27,7 @@
 0.0.0.0	androidtvchannels-pa.googleapis.com
 0.0.0.0	androidtvwatsonfe-pa.googleapis.com
 0.0.0.0	api.us-east-1.aiv-delivery.net
+0.0.0.0	api-js.mixpanel.com
 0.0.0.0	app-measurement.com
 0.0.0.0	aquantive.com
 0.0.0.0	assignlabor.com
@@ -54,6 +55,7 @@
 0.0.0.0	d1zjr9cc2zx7cg.cloudfront.net
 0.0.0.0	decdna.net
 0.0.0.0	decideinteractive.com
+0.0.0.0	demdex.net
 0.0.0.0	dnhfi5nn2dt67.cloudfront.net
 0.0.0.0	doubleclick.com
 0.0.0.0	doubleclick.net
