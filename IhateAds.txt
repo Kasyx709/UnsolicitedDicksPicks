@@ -1,5 +1,4 @@
-# Wildcard Blocklist for Pi-Hole, also blocks all domains ending in .ru	
-0.0.0.0	adsco.re
+# Wildcard Blocklist for Pi-Hole, also blocks all domains ending in .ru	adsco.re
 0.0.0.0	atdmt.com
 0.0.0.0	blockadsnot.com
 0.0.0.0	buzz
@@ -24,8 +23,8 @@
 0.0.0.0	shtvholotixb.com
 0.0.0.0	uuidksinc.net
 0.0.0.0	wegetfinancing.com
-0.0.0.0	wpadmngr.com 
-0.0.0.0	wpshsdk.com 
+0.0.0.0	wpadmngr.com
+0.0.0.0	wpshsdk.com
 0.0.0.0	wpushsdk.com
 0.0.0.0	2o7.net
 0.0.0.0	207.net
@@ -71,7 +70,6 @@
 0.0.0.0	fimserve.com
 0.0.0.0	flingwebads.com
 0.0.0.0	foxnetworks.com
-0.0.0.0	googleads.com
 0.0.0.0	googleadservices.com
 0.0.0.0	google-analytics.com
 0.0.0.0	gravity.com
