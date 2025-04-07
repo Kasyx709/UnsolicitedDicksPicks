@@ -5,14 +5,12 @@
 0.0.0.0	*.blockadsnot.com
 0.0.0.0	*.bugsnag.com
 0.0.0.0	*.buzz
-0.0.0.0	*.buzz
 0.0.0.0	*.capndr
 0.0.0.0	*.cc-api-data.adobe.io
 0.0.0.0	*.demdex.net
 0.0.0.0	*.icu
 0.0.0.0	*.omtrdc.net
 0.0.0.0	*.posthog.com
-0.0.0.0	*.ru
 0.0.0.0	*.ru
 0.0.0.0	*.tusvucvfopvaon.com
 0.0.0.0	207.net
