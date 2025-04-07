@@ -1,4 +1,9 @@
-# Wildcard Blocklist for Pi-Hole, also blocks all domains ending in .ru	adsco.re
+# Wildcard Blocklist for Pi-Hole, also blocks all domains ending in .ru	
+0.0.0.0	*.adsco.re
+0.0.0.0	*.atdmt.com
+0.0.0.0	*.blockadsnot.com
+0.0.0.0	*.buzz
+0.0.0.0	*.capndr
 0.0.0.0	*.ru
 0.0.0.0	207.net
 0.0.0.0	247realmedia.com
@@ -9,7 +14,10 @@
 0.0.0.0	a.tribalfusion.com
 0.0.0.0	abmr.net
 0.0.0.0	acoda.net
+0.0.0.0	ad.ca.doubleclick.net
 0.0.0.0	ad.com
+0.0.0.0	ad.doubleclick.net
+0.0.0.0	ad.nozonedata.com
 0.0.0.0	adblade.com
 0.0.0.0	adbrite.com
 0.0.0.0	adbureau.net
@@ -19,6 +27,9 @@
 0.0.0.0	admeld.com
 0.0.0.0	admob.com
 0.0.0.0	ads.com
+0.0.0.0	ads.deviantart.com
+0.0.0.0	ads.pointroll.com
+0.0.0.0	adsco.re
 0.0.0.0	adsense.com
 0.0.0.0	adservice.google.com
 0.0.0.0	adsonar.com
@@ -36,9 +47,12 @@
 0.0.0.0	avo.app
 0.0.0.0	blockadsnot.com
 0.0.0.0	br3azil334nutsz.com
+0.0.0.0	browser.events.data.microsoft.com
 0.0.0.0	browser.events.data.msn.com
 0.0.0.0	bugsnag.com
 0.0.0.0	buzz
+0.0.0.0	c.bing.com
+0.0.0.0	c.msn.com
 0.0.0.0	capndr.com
 0.0.0.0	cc-api-data.adobe.io
 0.0.0.0	cdn.cookielaw.org
@@ -109,6 +123,7 @@
 0.0.0.0	omniture.com
 0.0.0.0	omtrdc.net
 0.0.0.0	onetrust.com
+0.0.0.0	pagead2.googlesyndication.com
 0.0.0.0	photorank.me
 0.0.0.0	pixel.quantserve.com
 0.0.0.0	pm14.com
@@ -122,12 +137,15 @@
 0.0.0.0	ru4.com
 0.0.0.0	rubiconproject.com
 0.0.0.0	samsungadhub.com
+0.0.0.0	sb.scorecardresearch.com
 0.0.0.0	scorecardresearch.com
+0.0.0.0	sdk.iad-01.braze.com
 0.0.0.0	sessions.bugsnag.com
 0.0.0.0	sgxojhgvha.com
 0.0.0.0	sharethis.com
 0.0.0.0	shopthetv.com
 0.0.0.0	shtvholotixb.com
+0.0.0.0	ssl.google-analytics.com
 0.0.0.0	static.doubleclick.net
 0.0.0.0	statsigapi.net
 0.0.0.0	storage.multstorage.com
@@ -150,6 +168,8 @@
 0.0.0.0	wpadmngr.com
 0.0.0.0	wpshsdk.com
 0.0.0.0	wpushsdk.com
+0.0.0.0	www.atdmt.com
+0.0.0.0	www.doubleclick.net
 0.0.0.0	yieldmanager.com
 0.0.0.0	yieldmanager.net
 0.0.0.0	yldmgrimg.net
