@@ -52,6 +52,7 @@
 0.0.0.0	airlytics.airlock.twcmobile.weather.com
 0.0.0.0	alb.reddit.com
 0.0.0.0	amazon-adsystem.com
+0.0.0.0 amplitude.com
 0.0.0.0	analytics.google.com
 0.0.0.0	androidtvchannels-pa.googleapis.com
 0.0.0.0	androidtvwatsonfe-pa.googleapis.com
@@ -184,6 +185,7 @@
 0.0.0.0	magsrv.com
 0.0.0.0	media.fastclick.net
 0.0.0.0	metricswpsh.com
+0.0.0.0 mmcdn.com
 0.0.0.0	mobile.eum-appdynamics.com
 0.0.0.0	mobile.launchdarkly.com
 0.0.0.0	mookie1.com
@@ -300,3 +302,4 @@
 0.0.0.0	youknowbest.com
 0.0.0.0	yumenetworks.com
 0.0.0.0	z-na.amazon-adsystem.com
+0.0.0.0 zeustechnology.com
