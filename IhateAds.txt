@@ -48,6 +48,7 @@
 0.0.0.0	adsonar.com
 0.0.0.0	adsrvr.org
 0.0.0.0	advertising.com
+0.0.0.0 ak.sail-horizon.com
 0.0.0.0	afy11.net
 0.0.0.0	airlytics.airlock.twcmobile.weather.com
 0.0.0.0	alb.reddit.com
@@ -187,7 +188,9 @@
 0.0.0.0	metricswpsh.com
 0.0.0.0 mmcdn.com
 0.0.0.0	mobile.eum-appdynamics.com
+0.0.0.0 events.launchdarkly.com
 0.0.0.0	mobile.launchdarkly.com
+0.0.0.0 moengage.com
 0.0.0.0	mookie1.com
 0.0.0.0	mparticle.com
 0.0.0.0	msedge.net
